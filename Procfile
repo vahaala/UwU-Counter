@@ -1,0 +1,1 @@
+worker: python uwu_counter.py
